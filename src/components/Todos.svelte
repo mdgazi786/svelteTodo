@@ -19,6 +19,7 @@
                 type="text"
                 autofocus
                 bind:value={todo}
+                required
                 />
         </form>
     </section>
